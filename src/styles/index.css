@@ -10,3 +10,44 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background-color: rgb(59, 176, 230);
+}
+
+.navbar-brand {
+    font-family: monospace;
+    color: white;
+}
+
+.navbar-nav {
+    font-family: monospace;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-toggler {
+    color: rgb(225, 0, 255);
+    background-color: rgba(253, 107, 253, 0.644);
+}
+
+.jumbotron {
+    background-color: rgb(255, 253, 253);
+}
+
+.container-footer {
+    background-color: black;
+    font-family: monospace;
+    color: white;
+    text-align: center;
+}
+
+.card-width {
+    width: 15rem;
+    background-color: white;
+}
+
+.row {
+    text-align: -webkit-center;
+}
